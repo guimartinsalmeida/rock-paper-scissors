@@ -6,7 +6,7 @@ to play with it you can just
 
 - clone the repository
 
-- run `pnpm i` to install all de dependencies
+- run `pnpm i` to install all the dependencies
 
 - run `pnpm run dev` to run the project
 
